@@ -1,0 +1,16 @@
+# Distribution-only allowlist. Build from a clean directory; never copy private history.
+*
+!/.gitignore
+!/README.md
+!/LICENSE.md
+!/CHANGELOG.md
+!/SECURITY.md
+!/VERSION
+!/manifest.json
+!/docs/
+!/docs/INSTALL.md
+!/docs/COMPATIBILITY.md
+!/docs/USER-GUIDE.md
+!/downloads/
+!/downloads/WHMCS-Required-Email-Verification-Free-Edition-1.0.0-encoded.zip
+!/downloads/SHA256SUMS

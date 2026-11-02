@@ -1,0 +1,51 @@
+{
+  "editable_files": [
+    "modules/addons/herza_email_verification/lang/english.php",
+    "modules/addons/herza_email_verification/lang/indonesian.php",
+    "modules/addons/herza_email_verification/clientarea.tpl"
+  ],
+  "edition": "free",
+  "encoded_runtime_php_files": 11,
+  "features": [
+    "email_otp",
+    "owner_login_gate",
+    "checkout_gate",
+    "owner_email_change_reverification"
+  ],
+  "files": {
+    "CHANGELOG.md": "37ab089899dcdfd09d095b14fc0f479cc034b4e1ee4b70d953ffbe36a96b3ad8",
+    "LICENSE.md": "53256d5459bb3b829d3ec9d308cb5c69c623b4f02b6a46ed33bae90c59248c5b",
+    "README.md": "31f423af1b8cb09709444e2581d21c2ba4fffe3ff315f7d463751ec665bb2f17",
+    "SECURITY.md": "34a5290143f5fb75c666662cadd91d172dc5fffd91ffc8f6a03e75c5f29b608b",
+    "VERSION": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03",
+    "docs/COMPATIBILITY.md": "66b35c68899fbeb1a12741205704e5b170036b25cbd79f0d9ae20d601089343a",
+    "docs/INSTALL.md": "0fbf668604e7d983e98e59c9ee7586d01f2a6c1f0b61986d45b68afad15bd185",
+    "docs/USER-GUIDE.md": "b7be837ece1ca742c28277a62ec29a9e38ec8ab4b6a6f5531a4fee2a4a31ae12",
+    "includes/hooks/herza_email_verification.php": "85a35547e3637f453737822dd744bf459e4df48093ba6968517e153fae623320",
+    "modules/addons/herza_email_verification/bootstrap.php": "2c5f9ea313298e58644f04929606006939bb51db076c1714cdd1b195f78e4464",
+    "modules/addons/herza_email_verification/clientarea.tpl": "4a46499459ef8b8be549c74ad9be1c959d95d759a71e6683e0d3c808844fdb91",
+    "modules/addons/herza_email_verification/herza_email_verification.php": "978efcc5cb11a4bf0ab37ea9439c766bf75b1d93288440aa5dba7d5b0fc34293",
+    "modules/addons/herza_email_verification/hooks.php": "32a27ad3ad43c70d91f725476ebe6bb02d056ecd89ed5d204c28e42f62425244",
+    "modules/addons/herza_email_verification/lang/english.php": "d928e2c88abbf4feb2c7ad8fd0ab5623dcf6ee48b184b8580177bab770777db7",
+    "modules/addons/herza_email_verification/lang/indonesian.php": "f6a33f8e2ed65ecdf09cd980062a267c392bf546c78254db05e59be6f43a4898",
+    "modules/addons/herza_email_verification/lib/Core.php": "f09a70a65b39dcc229fe5392f0a2d5ed26be9e9ea34d6a1d72621af666df1789",
+    "modules/addons/herza_email_verification/lib/DeploymentPolicy.php": "9cc4d2552c053a85f46c6d9cd8d28b70cf7bbd975a4b03b349349b372523c49a",
+    "modules/addons/herza_email_verification/lib/Localization.php": "719a89fa8185238427d6459c9ed923fc950e88eb7da2a3dd6dd3d889a6b0ee74",
+    "modules/addons/herza_email_verification/lib/MySqlChallengeStore.php": "8d64571acafc49183010ac9df22fb41bb87c8ffed8489399d4348c931fb3ad2d",
+    "modules/addons/herza_email_verification/lib/Settings.php": "f2ee2164e718078f1a3f5d2036be91ff9ea02cfd4a55b0139ee9811b7e0eb60e",
+    "modules/addons/herza_email_verification/lib/WebSecurity.php": "830fbd1dd1499e169a333421c083b8d7ff5b80296fd3ea572a30bbcc9bf9d27c",
+    "modules/addons/herza_email_verification/lib/WhmcsMailTransport.php": "cbfb26683c1264a01ab91035bfa2924c2d1abd6418562f93f5662d49ccd3aa92"
+  },
+  "minimum_ioncube_loader": "15.0",
+  "personal_support_included": false,
+  "php_targets": [
+    "8.1",
+    "8.2",
+    "8.3"
+  ],
+  "product": "WHMCS Required Email Verification - Free Edition",
+  "sms_verification": false,
+  "updates_included": false,
+  "v2_upgrade_included": false,
+  "version": "1.0.0"
+}
